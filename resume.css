@@ -1,0 +1,15 @@
+.profile {
+  border-radius: 50%;
+  align-items: center;
+  margin-left: 60px;
+  margin-top: 10px;
+  position: relative;
+}
+.left{
+  position: relative;
+  bottom: 120px;
+ 
+}
+.make{
+  align-items: center;
+}
